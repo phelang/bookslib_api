@@ -18,6 +18,13 @@ npm run build
 npm run build --report
 ```
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+> Frameworks
 
-Buy books
+## CSS Design Frameworks Useful Links
+
+- https://mdbootstrap.com/docs/jquery/navigation/navbar/
+- https://mdbootstrap.com/legacy/4.3.2/?page=javascript/side-nav
+- https://mdbootstrap.com/docs/jquery/navigation/compositions/
+- https://fezvrasta.github.io/bootstrap-material-design/docs/4.0/bootstrap-components/navbar/
+- https://mdbootstrap.com/docs/jquery/navigation/footer/
+- https://mdbootstrap.com/docs/jquery/navigation/navbar/
