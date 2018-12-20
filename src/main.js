@@ -14,6 +14,10 @@ import 'bootstrap-vue/dist/bootstrap-vue.css'
 /* Routes - Pages and Template Pages*/
 import Home from './components/Home'
 
+
+/* Font awesome js */
+import 'font-awesome/css/font-awesome.css'
+
 Vue.use(BootstrapVue);
 Vue.use(VueRouter);
 
